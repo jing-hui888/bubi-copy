@@ -11,7 +11,7 @@
           >
           <!-- 面包屑 -->
           <Mbx />
-        </el-header>
+        </el-header> 
 
         <!-- 主体部分 -->
         <el-main>Main</el-main>
