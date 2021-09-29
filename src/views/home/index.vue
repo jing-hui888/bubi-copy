@@ -16,7 +16,8 @@
         <!-- 主体部分 -->
         <el-main>Main</el-main>
         <!-- 页脚 -->
-        <el-footer>Foote</el-footer>
+        <el-footer>Footer</el-footer>
+       
       </el-container>
     </el-container>
   </div>
